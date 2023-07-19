@@ -1,0 +1,2 @@
+# Note_App
+MVVM, ROOM LIBRARY, LIVEDATA exercise
